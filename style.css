@@ -1,0 +1,25 @@
+/*Practicing Styles*/
+
+Body {
+	background-color: aqua;
+	color: black;
+}
+
+h1 {
+	font-family: Arial;
+	text-decoration: underline;
+}
+
+img {
+	width: 13%;
+	height: 19%;
+}
+
+a {
+	text-decoration: none;
+}
+
+ul li {
+	list-style-type: none;
+}
+
